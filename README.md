@@ -28,7 +28,7 @@ The available branches are:
 - `perceptron`: Perceptron algorithm
 - `naive-bayes`: Naive Bayes algorithm
 
-3. Run the script: `python classification.py`
+3. Run the script: `python banknotes.py`
 
 The script will load the dataset, split it into training and testing sets, train the selected classification model, make predictions on the testing set, and display the accuracy of the model.
 
